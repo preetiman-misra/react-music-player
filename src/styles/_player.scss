@@ -21,6 +21,8 @@
     p {
         padding: 1rem;
     }
+
+    z-index: 1;
 }
 
 .play-control {
@@ -32,6 +34,8 @@
     svg {
         cursor: pointer;
     }
+
+    z-index: 1;
 }
 
 input[type="range"]:focus {
