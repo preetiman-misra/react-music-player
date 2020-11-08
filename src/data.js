@@ -71,6 +71,16 @@ function chillHop() {
       id: uuidv4(),
       active: false,
     },
+    {
+      name: "Sodium",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/10/efaa848553d09b4d9fc0752844456e41b34de276-150x150.jpg",
+      artist: "Philanthrope, Tesk",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=9149",
+      color: ["#7454AF", "#B3E8EF"],
+      id: uuidv4(),
+      active: false,
+    },
   ];
 }
 
