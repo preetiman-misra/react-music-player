@@ -64,7 +64,7 @@ function chillHop() {
     {
       name: "Sleepover",
       cover:
-        "https://chillhop.com/wp-content/uploads/2020/09/09fb436604242df99f84b9f359acb046e40d2e9e-150x150.jpg",
+        "https://chillhop.com/wp-content/uploads/2020/09/09fb436604242df99f84b9f359acb046e40d2e9e-1024x1024.jpg",
       artist: "Nymano, JK the Sage",
       audio: "https://mp3.chillhop.com/serve.php/?mp3=10136",
       color: ["#5B518E", "#251C21"],
@@ -74,7 +74,7 @@ function chillHop() {
     {
       name: "Sodium",
       cover:
-        "https://chillhop.com/wp-content/uploads/2020/10/efaa848553d09b4d9fc0752844456e41b34de276-150x150.jpg",
+        "https://chillhop.com/wp-content/uploads/2020/10/efaa848553d09b4d9fc0752844456e41b34de276-1024x1024.jpg",
       artist: "Philanthrope, Tesk",
       audio: "https://mp3.chillhop.com/serve.php/?mp3=9149",
       color: ["#7454AF", "#B3E8EF"],
