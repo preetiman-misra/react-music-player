@@ -20,7 +20,8 @@
     display: flex;
     align-items: center;
     padding: 1rem 2rem;
-    cursor:pointer ;
+    cursor: pointer;
+    transition: background 0.5s ease;
 
     img {
         width: 30%;
@@ -77,5 +78,11 @@
     a {
         text-decoration: none;
         color: rgb(44, 44, 255);
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .library {
+        width: 100%;
     }
 }
