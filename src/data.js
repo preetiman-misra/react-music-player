@@ -62,6 +62,16 @@ function chillHop() {
       active: false,
     },
     {
+      name: "Rest Until Dark",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/09/c209a7df7b9bc133dfff73ce86ebc3c57c2b73dd-1024x1024.jpg",
+      artist: "Sleepy Fish",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=10015",
+      color: ["#201F3A", "#A2CDDC"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
       name: "Sleepover",
       cover:
         "https://chillhop.com/wp-content/uploads/2020/09/09fb436604242df99f84b9f359acb046e40d2e9e-1024x1024.jpg",
